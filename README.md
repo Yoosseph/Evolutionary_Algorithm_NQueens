@@ -1,4 +1,4 @@
-# Evolutionary Algorithm – N-Queens Solver
+# Evolutionary Algorithm N-Queens Solver
 
 This project implements an Evolutionary Algorithm (EA) to solve the classic N-Queens problem. It includes modular algorithm components, visualization utilities, and scripts for running simulations and analyzing results.
 
