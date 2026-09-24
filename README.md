@@ -92,4 +92,4 @@ You may open issues or submit pull requests to improve the algorithm, add strate
 
 ## License
 
-This project is open-source. You may modify and use it freely
+This project is open-source. You may modify and use it freely as you want!
